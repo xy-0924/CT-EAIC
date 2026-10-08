@@ -1,1 +1,0 @@
-from .uniformer import uniformer_small_IL, uniformer_small_IL_features
