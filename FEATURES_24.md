@@ -33,4 +33,4 @@ The final public code uses the following 24 predefined binary imaging features, 
 This list is intended to match the 24 imaging features reported in the final Methods and Supplementary Tables.  
 The standalone overall **arterial phase hyperenhancement (APHE)** label is not included as a separate feature; **nonrim APHE** and **rim APHE** are modeled separately.
 
-The final study configuration uses all 24 features. Optional `--selected-features` support is retained in the generic training/inference code only for ablation or research experiments and is not the configuration of the final CT-EAIC model.
+The final study configuration uses all 24 features. Optional `--selected-features` support is retained in the generic training/inference code only for ablation or research experiments and is not the configuration used in the final study models.

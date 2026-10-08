@@ -1,6 +1,6 @@
-# Clinical Variables Used by CT-EAIC
+# Clinical Variables in the Clinical-Integrated Model
 
-The final CT-EAIC model integrates 10 clinical variables:
+The clinical-integrated classification model uses 10 clinical variables:
 
 | Variable | Encoding / preprocessing |
 |---|---|
