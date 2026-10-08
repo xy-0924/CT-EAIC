@@ -1,0 +1,28 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
+
+# Patient-level data
+data/
+classification_models/data/
+*.nii
+*.nii.gz
+*.dcm
+*.xlsx
+*.xls
+*.csv
+case_name_mapping*.txt
+
+# Checkpoints / large model files
+checkpoints/
+classification_models/ckpts/
+*.pth
+*.pth.tar
+*.pt
+*.ckpt
+
+# Generated outputs
+outputs/
+shap_outputs/
+result_test/
