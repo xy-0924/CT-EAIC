@@ -1,0 +1,22 @@
+{
+  "feature_count": 24,
+  "clinical_preprocessing": {
+    "zscore_continuous": [
+      "Age",
+      "AFP"
+    ],
+    "binary_0_1_unchanged": [
+      "Sex",
+      "PLT",
+      "ALB",
+      "ALT",
+      "AST",
+      "ALP",
+      "TBIL",
+      "PT"
+    ]
+  },
+  "python_files_checked": 37,
+  "python_syntax_errors": [],
+  "legacy_or_25_feature_hits": []
+}
